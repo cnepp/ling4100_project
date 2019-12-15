@@ -1,0 +1,6 @@
+silence
+open
+the
+file
+open
+it
